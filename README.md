@@ -40,8 +40,9 @@ I create responsive, dynamic web applications, focusing on exceptional user expe
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
  </p>
+<h3>Most used Language :</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-atikuzzaman&show_icons=true&locale=en&layout=compact" alt="mohammad-atikuzzaman" /></p>
+<h3> Current Stats :</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-atikuzzaman&show_icons=true&locale=en&layout=compact" alt="mohammad-atikuzzaman" /></p>
-<h3> Current Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-atikuzzaman&" alt="mohammad-atikuzzaman" /></p>
 
