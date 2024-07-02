@@ -6,12 +6,9 @@ I create responsive, dynamic web applications, focusing on exceptional user expe
 
 - 🔭 I’m currently working on **Blood Network Project(Pabna)**
 - 🌱 I’m currently learning **TypeScript**
-- 👯 I’m looking to collaborate on **Open source project**
-- 👨‍💻 All of my projects are available at [Portfolio ](atikuzzaman.netlify.app)
 - 💬 Ask me about **JavaScript, React**
 - 📫 How to reach me **akash203037@gmail.com**
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1SVAowcfwX8zCXwGNpCqNU9jwlNgv0fQL/view?usp=sharing)
-- ⚡ Fun fact **I think I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
