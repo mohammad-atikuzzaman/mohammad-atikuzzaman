@@ -1,4 +1,4 @@
-![I am Web Developer](https://i.ibb.co/s5wQSCT/banner.png)
+![I am Web Developer](https://i.ibb.co/7WKzrWp/banner.png)
 
 <h1 align="center">Hi 👋, I'm Atikuzzaman</h1>
 <h3 align="center">A passionate web developer</h3>
