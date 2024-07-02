@@ -42,6 +42,6 @@ I create responsive, dynamic web applications, focusing on exceptional user expe
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-atikuzzaman&show_icons=true&locale=en&layout=compact" alt="mohammad-atikuzzaman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-atikuzzaman&" alt="mohammad-atikuzzaman" /></p>
+<h3> Current Stats</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-atikuzzaman&" alt="mohammad-atikuzzaman" /></p>
 
