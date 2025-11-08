@@ -1,4 +1,4 @@
-![My Profile Picture]([https://example.com/profile.jpg](https://i.ibb.co.com/r2LSfZbr/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner-1.png))
+![I am Web Developer](https://i.ibb.co.com/r2LSfZbr/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Mohammad Atikuzzaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
@@ -13,8 +13,8 @@
 
 I'm a passionate full-stack developer who thrives on building responsive, dynamic web applications that deliver exceptional user experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
 
-- 🔭 **Currently Working On:** Blood Network Project (Pabna) - A platform connecting blood donors with recipients
-- 🌱 **Currently Learning:** TypeScript & Advanced React Patterns
+- 🔭 **Currently Working On:** CodeAtik Agent - A comprehensive ai website builder.
+- 🌱 **Currently Learning:** GO Lang & DSA
 - 👯 **Looking to Collaborate On:** Open source projects and innovative web applications
 - 💬 **Ask Me About:** JavaScript, React, Node.js, MongoDB
 - 📫 **How to Reach Me:** [akash203037@gmail.com](mailto:akash203037@gmail.com)
@@ -45,27 +45,38 @@ I'm a passionate full-stack developer who thrives on building responsive, dynami
 ### 🛠️ Tech Stack
 
 #### Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=TypeScript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=60A5FA&labelColor=171717&color=000000" alt="shadcn/ui"/>
 </p>
 
 #### Backend Development
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Socket.io-121212?style=for-the-badge&logo=socketdotio&logoColor=00D8FF" alt="Socket.io"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-DD4D4D?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
 </p>
 
 #### Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
+  <img src="https://img.shields.io/badge/VPS-6F42C1?style=for-the-badge&logo=proxmox&logoColor=white" alt="VPS"/>
 </p>
 
 ---
@@ -88,8 +99,9 @@ I'm a passionate full-stack developer who thrives on building responsive, dynami
 ```javascript
 const currentFocus = {
   languages: ["JavaScript", "TypeScript"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "MongoDB"],
-  tools: ["Git", "VS Code", "Firebase"],
-  learning: ["Advanced React Patterns", "System Design"]
+  frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "ShadCn UI"],
+  backend: ["Node.js", "Express", "Socket IO", "MongoDB", "Mongoose"],
+  tools: ["Git", "VS Code", "Firebase", "C-panel"],
+  learning: ["GO Lang", "DSA"],
 };
+```
