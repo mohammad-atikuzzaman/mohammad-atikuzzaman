@@ -9,17 +9,16 @@
 
 ---
 
-### 🚀 About Me
+##  About Me
 
 I'm a passionate full-stack developer who thrives on building responsive, dynamic web applications that deliver exceptional user experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
 
-- 🔭 **Currently Working On:** CodeAtik Agent - A comprehensive ai website builder.
-- 🌱 **Currently Learning:** GO Lang & DSA
-- 👯 **Looking to Collaborate On:** Open source projects and innovative web applications
-- 💬 **Ask Me About:** JavaScript, React, Node.js, MongoDB
-- 📫 **How to Reach Me:** [akash203037@gmail.com](mailto:akash203037@gmail.com)
-- 📄 **My Resume:** [Download Here](https://drive.google.com/file/d/1SVAowcfwX8zCXwGNpCqNU9jwlNgv0fQL/view?usp=sharing)
-- ⚡ **Fun Fact:** I can debug CSS while blindfolded (almost! 😄)
+-  **Currently Working On:** CodeAtik Agent - A comprehensive ai website builder.
+- **Currently Learning:** GO Lang & DSA
+- **Looking to Collaborate On:** Open source projects and innovative web applications
+
+- **My Resume:** [Download Here](https://drive.google.com/file/d/1T8hy9_TwWnXRoo4C5EwtbuMNqcKcoaCq/view?usp=sharing)
+- **Fun Fact:** I can debug CSS while blindfolded (almost! 😄)
 
 ---
 
