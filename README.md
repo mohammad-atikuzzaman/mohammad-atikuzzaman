@@ -1,4 +1,4 @@
-![I am Web Developer][https://i.ibb.co.com/r2LSfZbr/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner-1.png]
+![I am Web Developer](https://i.ibb.co.com/r2LSfZbr/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Mohammad Atikuzzaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
