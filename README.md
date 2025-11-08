@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Atikuzzaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Building+Digital+Experiences;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
 
 ### 🚀 About Me
 
